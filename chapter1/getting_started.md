@@ -17,3 +17,4 @@
 ### Android配置 ###
 如果用React Native来开发Android应用，需要安装Android SDK，如果没有物理机，需要安装一个Android虚拟机。关于Android环境的详细配置，参考下一篇文章。
 
+注意：
