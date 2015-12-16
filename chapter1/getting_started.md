@@ -7,4 +7,6 @@
 * 3.1 使用```brew install nvm```安装nvm。nvm安装完成后，需要配置nvm的工作目录，在os x系统中，一般为当前用户的home文件夹下的.nvm目录，接着完成nvm的环境变量配置，使得能够任意目录下执行nvm命令。接着使用```nvm install node && nvm alias default node```来安装最新版本的Nodejs，同时，你可以在任意目录通过```node```命令来使用Nodejs。nvm允许你安装多个版本的nodejs，并且可以在这些版本中轻易的切换。
 * 3.2 如果你使用的是Node 5.0或是更新的，我们推荐你使用npm 2，它比nmp 3更快。安装完Node后，运行```npm install -g npm@2```来安装npm 2.
 * 4.通过运行```brew install watchman```来安装watchman，推荐使用watchman来查看文件bug，否则只能打开每个文件来查看bug情况。
-* 
+* 5.如果想要使用flow，可以执行```brew install flow```来安装。
+
+建议定期的执行```brew update && brew upgrade```命令来保持程序是最新版本。
