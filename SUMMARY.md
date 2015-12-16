@@ -7,5 +7,5 @@
    * [Linux和Windows环境搭建](chapter1/linux_wind_sup.md)
    * [简单教程](chapter1/tutorial.md)
 * 参考
-   * 样式
+   * [样式](chapter2/style.md)
 
