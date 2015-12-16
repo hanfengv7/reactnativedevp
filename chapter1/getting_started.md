@@ -13,3 +13,5 @@
 
 ### IOS配置 ###
 需要Xcode7.0或更高版本，可以通过App Store来安装
+
+### Android配置 ###
