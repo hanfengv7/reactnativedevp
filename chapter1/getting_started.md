@@ -33,3 +33,5 @@
 * 用Xcode打开ios/AwesomeProject.xcodeproj并运行。
 * 选择一个文本编辑器打开index.ios.js文件，编辑几行进行保存。
 * 在IOS虚拟机中按⌘-R 进行重新加载，就能看到所做的修改。
+
+#### 运行Android程序 ####
