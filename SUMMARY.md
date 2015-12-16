@@ -8,5 +8,5 @@
    * [简单教程](chapter1/tutorial.md)
 * 参考
    * [样式](chapter2/style.md)
-   * 图片
+   * [图片](chapter2/images.md)
 
