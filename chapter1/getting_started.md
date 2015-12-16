@@ -30,4 +30,5 @@
 
 #### 运行IOS程序 ####
 * 执行```cd AwesomeProject```命令，进入到项目中。
+* 用Xcode打开ios/AwesomeProject.xcodeproj并运行。
 * 
