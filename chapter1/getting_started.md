@@ -19,3 +19,14 @@
 
 注意：关于在Linux或Window下开发Android，参考下下篇文章。
 
+### 开始运行 ###
+执行```npm install -g react-native-cli```命令来安装react-native。
+> $ npm install -g react-native-cli
+
+执行```react-native init AwesomeProject```来初始化一个名称为AwesomeProject的项目。
+> $ react-native init AwesomeProject
+
+这个命令可能会得等几分钟才能初始化完成。
+
+#### 运行IOS程序 ####
+* 执行```cd AwesomeProject```命令，进入到项目中。
