@@ -10,3 +10,6 @@
 * 5.如果想要使用flow，可以执行```brew install flow```来安装。
 
 建议定期的执行```brew update && brew upgrade```命令来保持程序是最新版本。
+
+### IOS配置 ###
+需要Xcode7.0或更高版本，可以通过App Store来安装
